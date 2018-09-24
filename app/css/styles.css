@@ -1,0 +1,124 @@
+body {
+  background: white; }
+
+.product-image {
+  width: 100%;
+  height: auto; }
+
+.height_product_img {
+  height: 500px; }
+
+.product-image-min {
+  max-width: 100px; }
+
+.link-shoes {
+  color: #6a6a6a; }
+
+.link-shoes:hover {
+  color: #6a6a6a; }
+
+.link-calzado {
+  color: #6a6a6a; }
+
+.title-shoes {
+  font-size: 25px;
+  color: #6a6a6a; }
+
+.price-shoes {
+  color: #7a4a58; }
+
+.subtitle-shoes {
+  font-size: 20px;
+  color: #6a6a6a; }
+
+.subtitle-shoes-1 {
+  color: #c8c6cb; }
+
+.size-style {
+  background: gray;
+  font-size: 26px;
+  padding-top: 20px;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  margin: 5px; }
+
+.size-style-selected {
+  background: #c8c6cb; }
+
+.add-button {
+  background: #7a4a58;
+  border-style: hidden;
+  height: 50px;
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-weight: bold; }
+
+.add-favorite {
+  color: #c8c6cb;
+  font-size: 40px;
+  padding-top: 5px; }
+
+.hr-separator {
+  color: #6a6a6a;
+  border-width: medium; }
+
+.title-description {
+  color: #6a6a6a;
+  font-size: 20px; }
+
+.p-style {
+  color: #6a6a6a; }
+
+.height-img {
+  height: 250px; }
+
+.separator-gray {
+  margin-top: 50px;
+  background-color: #c8c6cb;
+  color: #6a6a6a; }
+  .separator-gray h1 {
+    padding: 5px;
+    font-size: 24px;
+    color: #6a6a6a; }
+
+.separator-social {
+  width: 100px;
+  border-width: 3px;
+  margin-top: 15px; }
+
+.container-social {
+  padding-top: 50px;
+  padding-bottom: 50px; }
+
+.social-icon {
+  width: 40px;
+  height: auto; }
+
+.bold {
+  font-weight: bold; }
+
+footer {
+  padding-bottom: 20px; }
+
+.icon_enterprise {
+  height: 100px;
+  width: auto;
+  background-color: gray;
+  border-radius: 20px; }
+
+.icon_enterprise_2 {
+  margin-left: 50px;
+  height: 100px;
+  width: auto;
+  padding: 20px;
+  background-color: #c8c6cb;
+  border-radius: 20px; }
+
+.icon_enterprise_n {
+  height: 100px;
+  width: auto;
+  padding: 20px;
+  background-color: #c8c6cb;
+  border-radius: 20px; }

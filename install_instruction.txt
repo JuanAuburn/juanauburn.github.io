@@ -1,0 +1,3 @@
+npm install
+- cmd: gulp         // For run the page in browserSync
+- cmd: gulp build   // For create the distribution project files
